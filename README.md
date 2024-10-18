@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @josephpellumbi
-- 👀 I’m interested in Data Analytics
-- 📊 Seeking internship/entry level roles in Business Intelligence, Data Analytics, Sports Analytics
+- 📚 Master of Science in Business Analytics from Simon Business School
+- 👀 I’m interested in Data Analytics and Data Visualization
+- 📊 Seeking entry level roles in Business Intelligence and Data Analytics
 - ⚡ Fun fact: Lives and breathes soccer ⚽
 
 <!---
