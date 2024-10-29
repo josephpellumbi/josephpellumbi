@@ -18,7 +18,7 @@ I am currently pursuing a Master of Science in Business Analytics and have a str
 ## 📊 Projects
 
 ### 1. Google Data Analytics Capstone Case Study: Cyclistic Analysis [https://github.com/josephpellumbi/cyclistic-analysis]
-
+### 2. Twitch Streaming and Video Game Popularity Correlation Analysis [https://github.com/josephpellumbi/twitch-streaming]
 ---
 
 ## 📚 Education
