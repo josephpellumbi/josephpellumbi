@@ -1,6 +1,6 @@
 - # 👋 Hi, I'm @josephpellumbi
 
-I am currently pursuing a Master of Science in Business Analytics and have a strong passion for solving complex business problems through data-driven insights. My expertise lies in leveraging data analytics and business intelligence tools to drive actionable insights for better decision-making.
+I have a strong passion for solving complex business problems through data-driven insights. My expertise lies in leveraging data analytics and business intelligence tools to drive actionable insights for better decision-making. I recently graduated with a Master's in Business Analytics and I am actively seeking full-time opportunities to put my passion to work.
 
 ---
 
