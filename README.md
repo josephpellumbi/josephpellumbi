@@ -9,7 +9,7 @@ I have a strong passion for solving complex business problems through data-drive
 ### 🛠 Technical Skills:
 - **Programming Languages:** Python, R
 - **Database Languages:** SQL (MySQL)
-- **Data Visualization:** Tableau, Matplotlib
+- **Data Visualization:** Tableau, Matplotlib, Seaborn
 - **Statistical Analysis & Data Wrangling:** Pandas, NumPy
 - **Business Intelligence Tools:** Tableau, Power BI (familiarity)
 
