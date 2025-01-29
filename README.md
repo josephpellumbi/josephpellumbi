@@ -17,8 +17,9 @@ I have a strong passion for solving complex business problems through data-drive
 
 ## 📊 Projects
 
-### 1. Google Data Analytics Capstone Case Study: Cyclistic Analysis [https://github.com/josephpellumbi/cyclistic-analysis]
-### 2. Twitch Streaming and Video Game Popularity Correlation Analysis [https://github.com/josephpellumbi/twitch-streaming]
+### 1. Rider Conversion Analysis [https://github.com/josephpellumbi/cyclistic-analysis]
+### 2. Twitch Streaming & Game Popularity Correlation Analysis [https://github.com/josephpellumbi/twitch-streaming]
+### 3. Wellness Watch Analysis [WIP]
 ---
 
 ## 📚 Education
