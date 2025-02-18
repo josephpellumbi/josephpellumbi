@@ -42,7 +42,7 @@ Simon Business School | December 2024
 
 - LinkedIn: [https://www.linkedin.com/in/josephpellumbi/]
 
-Feel free to reach out for any collaboration opportunities or if you want to chat about data, analytics, or business intelligence!
+Feel free to reach out for any collaboration opportunities or if you want to chat about data analytics or business intelligence!
 
 ---
 
