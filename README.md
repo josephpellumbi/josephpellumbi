@@ -19,7 +19,9 @@ I have a strong passion for solving complex business problems through data-drive
 
 ### 1. Rider Conversion Analysis [https://github.com/josephpellumbi/cyclistic-analysis]
 ### 2. Wellness Watch Analysis [https://github.com/josephpellumbi/bellabeat_product_analysis]
-### 3. Twitch Streaming & Game Popularity Correlation Analysis [https://github.com/josephpellumbi/twitch-streaming]
+### 3. Robert Lewandowski Goal Analysis [https://github.com/josephpellumbi/lewandowski]
+### 4. Twitch Streaming & Game Popularity Correlation Analysis [https://github.com/josephpellumbi/twitch-streaming]
+
 ---
 
 ## 📚 Education
