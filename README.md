@@ -1,6 +1,6 @@
 - # 👋 Hi, I'm @josephpellumbi
 
-I have a strong passion for solving complex business problems through data-driven insights. My expertise lies in leveraging data analytics and business intelligence tools to drive actionable insights for better decision-making. I recently graduated with a Master's in Business Analytics and I am actively seeking full-time opportunities to put my passion to work.
+I have a strong passion for solving complex business problems through data-driven insights. My expertise lies in leveraging data analytics and business intelligence tools to drive actionable insights for better decision-making. I recently graduated with a Master's in Business Analytics and I am actively seeking full-time and internship opportunities to put my passion to work.
 
 ---
 
@@ -17,9 +17,9 @@ I have a strong passion for solving complex business problems through data-drive
 
 ## 📊 Projects
 
-### 1. Rider Conversion Analysis [https://github.com/josephpellumbi/cyclistic-analysis]
-### 2. Wellness Watch Analysis [https://github.com/josephpellumbi/bellabeat_product_analysis]
-### 3. Robert Lewandowski Goal Analysis [https://github.com/josephpellumbi/lewandowski]
+### 1. Membership Conversion Analysis [https://github.com/josephpellumbi/cyclistic-analysis]
+### 2. Product Analysis: Bellabeat's Time Wellness Watch [https://github.com/josephpellumbi/bellabeat_product_analysis]
+### 3. Sports Analytics: Robert Lewandowski Goal Analysis [https://github.com/josephpellumbi/lewandowski]
 ### 4. Twitch Streaming & Game Popularity Correlation Analysis [https://github.com/josephpellumbi/twitch-streaming]
 
 ---
