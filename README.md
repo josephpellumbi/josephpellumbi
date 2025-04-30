@@ -1,7 +1,6 @@
 - # 👋 Hi, I'm @josephpellumbi
 
-I have a strong passion for solving complex business problems through data-driven insights. My expertise lies in leveraging data analytics and business intelligence tools to drive actionable insights for better decision-making. I recently graduated with a Master's in Business Analytics and I am actively seeking full-time and internship opportunities.
-
+I’m a data analyst with over 1 year of professional experience using data to drive insights, ensure regulatory compliance, and support global business strategy. My work spans compliance reporting, consumer behavior, and market research. I enjoy connecting the dots between data and decisions — and I’m seeking new opportunities where I can continue transforming insights into impact.
 ---
 
 ## 🚀 Skills & Tools
