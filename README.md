@@ -1,6 +1,7 @@
 - # 👋 Hi, I'm @josephpellumbi
 
-I’m a data analyst with over 1 year of professional experience using data to drive insights, ensure regulatory compliance, and support global business strategy. My work spans compliance reporting, consumer behavior, and market research. I enjoy connecting the dots between data and decisions — and I’m seeking new opportunities where I can continue transforming insights into impact.
+I’m a data analyst with over 1 year of professional experience using data to answer business questions, uncover trends, and turn complex information into clear, actionable insights. My background spans web analytics, compliance reporting, consumer behavior, and market research - bringing together technical skill and business acumen to help drive smarter decisions across teams.
+
 ---
 
 ## 🚀 Skills & Tools
@@ -9,8 +10,9 @@ I’m a data analyst with over 1 year of professional experience using data to d
 - **Programming Languages:** Python, R
 - **Database Languages:** SQL (MySQL, Teradata, BigQuery)
 - **Data Visualization:** Tableau, Matplotlib, Seaborn
+- **Digital Analytics Platforms:** Adobe Analytics Workspace, Google Analytics 4 (familiarity)
 - **Statistical Analysis & Data Wrangling:** Pandas, NumPy
-- **Business Intelligence Tools:** Tableau, Power BI (familiarity)
+- **Business Intelligence Tools:** Tableau, Looker (familiarity)
 
 ---
 
