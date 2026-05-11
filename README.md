@@ -21,6 +21,7 @@ I’m a data analyst with over 1 year of professional experience using data to a
 ### 2. Product Analysis: Bellabeat's Time Wellness Watch [https://github.com/josephpellumbi/bellabeat_product_analysis]
 ### 3. Sports Analytics: Robert Lewandowski Goal Analysis [https://github.com/josephpellumbi/lewandowski]
 ### 4. Twitch Streaming & Game Popularity Correlation Analysis [https://github.com/josephpellumbi/twitch-streaming]
+### 5. E-Commerce Sales Analysis [https://github.com/josephpellumbi/e-commerce_data]
 
 ---
 
