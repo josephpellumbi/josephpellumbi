@@ -9,7 +9,7 @@ I’m a data analyst with over 1 year of professional experience using data to a
 ### 🛠 Technical Skills:
 - **Programming & Query Languages:** Python, R, SQL (MySQL, Teradata, BigQuery)
 - **Statistical Analysis & Data Wrangling:** Pandas, NumPy
-- **Data Visualization & BI Tools:** Tableau, Looker (familiarity), Matplotlib, Seaborn
+- **Data Visualization & BI Tools:** Tableau, Looker, Matplotlib, Seaborn
 - **Database Tools:** DBeaver
 - **Digital Analytics & Tracking:** Adobe Analytics Workspace, Google Analytics 4 (familiarity)
 
